@@ -1,3 +1,6 @@
+#To download the AR application, click here.
+https://drive.google.com/drive/folders/1XOWJ2JhuKIrFWWmxOCdNBpZkO-GPsw6O?dmr=1&ec=wgc-drive-hero-goto
+
 # Treasure
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
